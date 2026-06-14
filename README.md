@@ -124,7 +124,3 @@ All numerical data are stored as `float32` tensors. $N = 1125$ impacts, $T = 81$
 | `IMU` | (1125,) | — | str |
 
 ---
-
-## Reference
-
-Sciacca, A. & Ionescu, G. (2025). *[Paper title]*. [Journal]. [DOI]
